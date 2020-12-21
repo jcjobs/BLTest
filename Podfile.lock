@@ -1,0 +1,24 @@
+PODS:
+  - lottie-ios (3.1.9)
+  - RxSwift (5.1.1)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - lottie-ios
+  - RxSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - RxSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 3ad96210f4ef6b4ff9c0d546a176bf33c40ef3c3
+
+COCOAPODS: 1.9.3
